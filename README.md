@@ -1,12 +1,12 @@
 
-   git --version
-   mkdir git-demo
-   cd git-demo
-   git init
-   echo "# Git Demo Project" > README.md
-   git add README.md
-   git commit -m "Initial commit: Added README.md"
-     git remote add origin https://github.com/your-username/git-demo.git
+   #git --version
+   #mkdir git-demo
+   #cd git-demo
+   #git init
+   #echo "# Git Demo Project" > README.md
+   #git add README.md
+   #git commit -m "Initial commit: Added README.md"
+     git remote add origin https://github.com/git-assignment/git-demo.git
      git branch -M main
      git push -u origin main
    git branch feature-branch
